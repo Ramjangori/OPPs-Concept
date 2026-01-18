@@ -9,6 +9,7 @@ public class Test {
     // Instance variable
     // This variable belongs to the object of the class
     int a = 10;
+    public static int b=20;
 
     /*
      * Constructor

@@ -14,8 +14,8 @@ class SbiBank {
 
     // -------- Static Variables (Class Level) --------
 
-    // Same bank name for all customers (shared memory)
-    static String bankName = "State Bank of India";
+    
+    static String bankName = "State Bank of India"; // Same bank name for all customers (shared memory)
 
     // Counts total number of customers
     static int totalCustomer;
